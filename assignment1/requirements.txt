@@ -8,7 +8,7 @@ cycler==0.10.0
 decorator==4.4.0
 defusedxml==0.5.0
 entrypoints==0.3
-future==0.18.3
+future<0.14.0
 gitdb2==2.0.5
 GitPython>=3.1.30
 idna==3.7
